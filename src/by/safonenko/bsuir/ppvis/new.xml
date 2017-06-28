@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<trainList>
+<train>
+<number>777</number>
+<leavingStation>Хогвартс</leavingStation>
+<arrivingStation>Минск</arrivingStation>
+<leavingDate> 01.09.2017</leavingDate>
+<leavingTime> 11:11</leavingTime>
+<arrivingDate> 01.09.2017</arrivingDate>
+<arrivingTime> 22:22</arrivingTime>
+<wayTime> 11:11</wayTime>
+</train>
+<train>
+<number>897</number>
+<leavingStation>Вязынка</leavingStation>
+<arrivingStation>Минск</arrivingStation>
+<leavingDate> 05.09.2017</leavingDate>
+<leavingTime> 19:10</leavingTime>
+<arrivingDate> 05.09.2017</arrivingDate>
+<arrivingTime> 19:40</arrivingTime>
+<wayTime> 00:30</wayTime>
+</train>
+<train>
+<number>111</number>
+<leavingStation>Заславль</leavingStation>
+<arrivingStation>Минск</arrivingStation>
+<leavingDate> 07.11.2017</leavingDate>
+<leavingTime> 13:10</leavingTime>
+<arrivingDate> 07.09.2017</arrivingDate>
+<arrivingTime> 14:40</arrivingTime>
+<wayTime> 01:30</wayTime>
+</train>
+<train>
+<number>9878</number>
+<leavingStation>Краснодар</leavingStation>
+<arrivingStation>Брест</arrivingStation>
+<leavingDate> 18.04.2017</leavingDate>
+<leavingTime> 06:12</leavingTime>
+<arrivingDate> 18.04.2017</arrivingDate>
+<arrivingTime> 10:32</arrivingTime>
+<wayTime> 11:11</wayTime>
+</train>
+<train>
+<number>699</number>
+<leavingStation>Гродно</leavingStation>
+<arrivingStation>Брест</arrivingStation>
+<leavingDate> 18.04.2017</leavingDate>
+<leavingTime> 07:12</leavingTime>
+<arrivingDate> 18.04.2017</arrivingDate>
+<arrivingTime> 10:32</arrivingTime>
+<wayTime> 11:11</wayTime>
+</train>
+<train>
+<number>6</number>
+<leavingStation>Несвиж</leavingStation>
+<arrivingStation>Брест</arrivingStation>
+<leavingDate> 18.04.2017</leavingDate>
+<leavingTime> 06:12</leavingTime>
+<arrivingDate> 18.04.2017</arrivingDate>
+<arrivingTime> 10:32</arrivingTime>
+<wayTime> 11:00</wayTime>
+</train>
+<train>
+<number>659</number>
+<leavingStation>Заславь</leavingStation>
+<arrivingStation>Мозырь</arrivingStation>
+<leavingDate> 03.04.2017</leavingDate>
+<leavingTime> 09:12</leavingTime>
+<arrivingDate> 13.04.2017</arrivingDate>
+<arrivingTime> 10:32</arrivingTime>
+<wayTime> 01:11</wayTime>
+</train>
+<train>
+<number>656499</number>
+<leavingStation>Могилев</leavingStation>
+<arrivingStation>Брест</arrivingStation>
+<leavingDate> 18.04.2017</leavingDate>
+<leavingTime> 06:12</leavingTime>
+<arrivingDate> 18.04.2017</arrivingDate>
+<arrivingTime> 10:32</arrivingTime>
+<wayTime> 09:11</wayTime>
+</train>
+</trainList>
